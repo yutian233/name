@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
 </head>
 <body>
-<img src="taizai.jpg/>
+<img src="taizai.jpg.jpg"/>
 <p>天是你</p>
 <p>地是你</p>
 <p>风是你</p>
