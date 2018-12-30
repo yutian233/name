@@ -4,12 +4,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
 </head>
 <body>
-天是你
-地是你
-风是你
-都不如你
+<p>天是你</p>
+<p>地是你</p>
+<p>风是你</p>
+<p>都不如你</p>
 </body>
 </html>
